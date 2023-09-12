@@ -1,6 +1,7 @@
 # JavaScript Calculator Bookmarklet 🖩
 
 This project provides a JavaScript bookmarklet that allows users to create and remove a calculator instantly in their web browser. ✨
+This is currently broke lol, if anyone want to give a helping hand, it's appeciated. - NoxShadow.
 
 ## Features ✨
 
